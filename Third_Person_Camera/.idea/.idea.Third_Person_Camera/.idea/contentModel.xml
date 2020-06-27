@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Avery\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Avery\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Third_Person_Camera.-1879023976.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Avery\Unity\Unity_Third_Person_Camera\Third_Person_Camera" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Effects" t="Include">
+          <e p="_Sources" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="_Antialiasing" t="Include">
+                <e p="DLAA.shader" t="Include" />
+                <e p="FXAA2.shader" t="Include" />
+                <e p="FXAA3Console.shader" t="Include" />
+                <e p="FXAAPreset2.shader" t="Include" />
+                <e p="FXAAPreset3.shader" t="Include" />
+                <e p="NFAA.shader" t="Include" />
+                <e p="SSAA.shader" t="Include" />
+              </e>
+              <e p="_BloomAndFlares" t="Include">
+                <e p="Blend.shader" t="Include" />
+                <e p="BlendForBloom.shader" t="Include" />
+                <e p="BlendOneOne.shader" t="Include" />
+                <e p="BlurAndFlares.shader" t="Include" />
+                <e p="BrightPassFilter.shader" t="Include" />
+                <e p="BrightPassFilter2.shader" t="Include" />
+                <e p="LensFlareCreate.shader" t="Include" />
+                <e p="MultiPassHollywoodFlares.shader" t="Include" />
+                <e p="SeparableBlurPlus.shader" t="Include" />
+                <e p="VignetteShader.shader" t="Include" />
+              </e>
+              <e p="BarsEffect.shader" t="Include" />
+              <e p="BlendModesOverlay.shader" t="Include" />
+              <e p="ConvertDepth.shader" t="Include" />
+              <e p="frag_ao.cginc" t="Include" />
+              <e p="NoiseAndGrain.shader" t="Include" />
+              <e p="NoiseAndGrainDX11.shader" t="Include" />
+              <e p="NoiseEffectShaderRGB.shader" t="Include" />
+              <e p="NoiseEffectShaderYUV.shader" t="Include" />
+              <e p="ShowAlphaChannel.shader" t="Include" />
+              <e p="SimpleClear.shader" t="Include" />
+              <e p="SSAOShader.shader" t="Include" />
+            </e>
+          </e>
+          <e p="BarsEffect.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="BarsEffectEditor.cs" t="Include" />
+          </e>
+          <e p="ImageEffectBase.cs" t="Include" />
+          <e p="ImageEffects.cs" t="Include" />
+          <e p="SSAOEffect.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CharacterControllerLogic.cs" t="Include" />
+          <e p="DebugDraw.cs" t="Include" />
+          <e p="SceneViewCameraFollower.cs" t="Include" />
+          <e p="ThirdPersonCamera.cs" t="Include" />
+          <e p="ThirdPersonCameraEditor.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="DiffuseWorldUV.shader" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Third_Person_Camera.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

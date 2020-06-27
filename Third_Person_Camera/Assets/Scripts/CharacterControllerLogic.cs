@@ -29,7 +29,7 @@ using System.Collections;
 public class CharacterControllerLogic : MonoBehaviour 
 {
 	#region Variables (private)
-	
+
 	// Inspector serialized
 	[SerializeField]
 	private Animator animator;
